@@ -18,7 +18,6 @@ A simple, elegant, and functional To-Do List app built using **HTML**, **CSS**, 
 ## 📸 Demo
 
 Check out the live version here: [Live Demo](https://ankitadhikari1.github.io/to-do-app/)  
-_(Replace with your deployed link)_
 
 ---
 
